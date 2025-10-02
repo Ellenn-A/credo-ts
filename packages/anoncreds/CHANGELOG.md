@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.5.18
+
+### Patch Changes
+
+- Updated dependencies [6f7912a]
+- Updated dependencies [61f2e03]
+- Updated dependencies [8c5f6f6]
+  - @credo-ts/core@0.5.18
+
 ## 0.5.17
 
 ### Patch Changes
